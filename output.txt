@@ -1,0 +1,1209 @@
+Array 1:
+Generated Array:
+434 828 411 440 129 566 829 152 556 818 589 698 854 411 953 458 690 121 667 485 785 904 289 361 897 2 598 547 270 372 100 378 190 867 365 720 325 753 509 669 275 760 89 275 320 674 416 754 449 590 474 460 567 94 388 662 981 401 525 92 44 853 277 455 964 555 829 323 134 10 565 919 979 669 400 426 655 703 37 76 279 941 723 848 996 761 932 511 865 928 970 191 856 63 261 847 136 291 606 362 
+
+Execution time for Median of Three execution time: 0.0004879 seconds
+Execution time for Median of Five with random selection execution time: 0.0898123 seconds
+Execution time for Median of Five without random selection execution time: 0.000455 seconds
+Execution time for Median of Seven with random selection execution time: 0.0009047 seconds
+Execution time for Median of Seven without random selection execution time: 0.0003301 seconds
+Execution time for Median of Nine with random selection execution time: 0.0040649 seconds
+Execution time for Median of Nine without random selection execution time: 0.0003582 seconds
+
+Array 2:
+Generated Array:
+967 334 485 517 190 970 782 650 857 89 859 890 413 161 776 719 511 260 575 170 256 955 528 57 985 926 96 46 398 75 617 523 990 786 910 840 241 995 228 888 850 641 724 943 13 685 895 655 930 574 264 718 371 174 364 923 268 801 396 984 659 103 119 52 16 440 840 10 843 398 825 286 161 871 559 460 814 215 623 641 131 137 525 770 406 60 570 776 425 175 422 965 878 202 725 380 482 463 10 544 
+
+Execution time for Median of Three execution time: 1.32E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001689 seconds
+Execution time for Median of Five without random selection execution time: 1.28E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001409 seconds
+Execution time for Median of Seven without random selection execution time: 1.26E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001626 seconds
+Execution time for Median of Nine without random selection execution time: 1.28E-05 seconds
+
+Array 3:
+Generated Array:
+872 176 247 315 490 759 188 841 738 190 937 93 458 762 355 244 216 642 550 821 824 692 460 577 521 351 638 595 850 344 73 770 444 43 805 496 176 187 978 271 397 154 498 978 124 179 245 132 592 860 551 97 516 575 35 998 176 354 96 27 631 124 235 183 539 282 325 227 413 148 174 690 369 152 93 142 731 451 633 807 226 697 976 959 448 0 72 795 93 417 883 899 735 427 190 20 165 306 914 126 
+
+Execution time for Median of Three execution time: 1.16E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.000117 seconds
+Execution time for Median of Five without random selection execution time: 1.2E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001234 seconds
+Execution time for Median of Seven without random selection execution time: 1.14E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001566 seconds
+Execution time for Median of Nine without random selection execution time: 1.2E-05 seconds
+
+Array 4:
+Generated Array:
+728 413 406 611 964 786 829 196 303 52 783 50 489 65 308 58 431 463 485 559 748 161 506 660 369 412 114 400 351 197 994 890 945 208 796 815 549 799 596 554 229 645 876 622 739 347 367 342 435 831 842 825 532 714 21 544 793 75 249 648 562 476 419 514 35 321 105 815 111 204 577 104 794 479 655 531 359 120 684 198 166 648 76 444 848 702 834 827 964 267 800 254 947 491 967 8 905 77 264 358 
+
+Execution time for Median of Three execution time: 1.73E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001361 seconds
+Execution time for Median of Five without random selection execution time: 1.83E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.000195 seconds
+Execution time for Median of Seven without random selection execution time: 1.18E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001693 seconds
+Execution time for Median of Nine without random selection execution time: 1.43E-05 seconds
+
+Array 5:
+Generated Array:
+180 113 629 144 612 294 718 499 705 947 165 980 905 359 3 255 844 901 270 150 480 981 133 395 896 650 193 74 589 279 81 810 866 397 885 152 538 237 638 883 696 11 452 816 14 47 301 764 906 821 219 887 667 312 964 677 167 67 981 699 370 150 750 142 529 247 935 838 814 302 548 728 394 21 158 890 763 281 650 38 723 749 683 599 170 77 466 117 973 936 29 286 757 822 4 255 67 642 842 338 
+
+Execution time for Median of Three execution time: 1.72E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002009 seconds
+Execution time for Median of Five without random selection execution time: 1.52E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002211 seconds
+Execution time for Median of Seven without random selection execution time: 4.44E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002285 seconds
+Execution time for Median of Nine without random selection execution time: 2.08E-05 seconds
+
+Array 6:
+Generated Array:
+181 392 601 976 59 146 589 334 8 49 71 590 442 986 499 531 410 7 70 347 879 917 694 465 751 996 869 533 831 611 917 170 819 146 339 903 650 782 772 101 763 666 200 495 489 21 273 689 288 70 799 124 108 641 392 65 824 772 215 263 201 469 415 52 904 394 230 211 454 89 36 594 737 804 271 962 683 963 649 157 340 792 891 149 242 326 324 120 703 538 449 779 612 659 878 881 358 427 352 852 
+
+Execution time for Median of Three execution time: 1.45E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002126 seconds
+Execution time for Median of Five without random selection execution time: 1.72E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002338 seconds
+Execution time for Median of Seven without random selection execution time: 1.57E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002114 seconds
+Execution time for Median of Nine without random selection execution time: 1.84E-05 seconds
+
+Array 7:
+Generated Array:
+808 139 150 14 80 462 935 307 173 346 462 142 250 247 997 964 842 709 911 341 828 722 844 58 237 907 349 179 834 523 77 901 897 330 188 326 474 446 806 810 44 603 633 598 628 471 642 207 421 849 731 854 55 456 848 280 65 23 906 494 372 160 891 547 357 577 551 524 999 554 731 558 148 819 206 38 291 764 406 767 13 314 841 262 323 121 96 794 115 220 713 456 216 720 421 837 469 509 835 688 
+
+Execution time for Median of Three execution time: 1.54E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.000201 seconds
+Execution time for Median of Five without random selection execution time: 1.69E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002173 seconds
+Execution time for Median of Seven without random selection execution time: 1.74E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002286 seconds
+Execution time for Median of Nine without random selection execution time: 1.98E-05 seconds
+
+Array 8:
+Generated Array:
+875 19 772 430 494 55 147 24 212 630 958 886 55 910 525 483 791 625 134 163 277 894 762 295 674 430 976 374 172 637 779 604 513 37 566 865 57 208 762 614 999 362 471 335 288 212 571 48 788 735 730 109 590 122 955 677 25 509 594 673 706 235 614 376 975 251 850 992 67 991 561 732 494 334 745 883 778 986 392 475 220 293 905 919 538 658 952 880 301 806 321 908 925 241 624 320 542 973 445 146 
+
+Execution time for Median of Three execution time: 1.97E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002201 seconds
+Execution time for Median of Five without random selection execution time: 1.88E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002143 seconds
+Execution time for Median of Seven without random selection execution time: 1.97E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002172 seconds
+Execution time for Median of Nine without random selection execution time: 1.92E-05 seconds
+
+Array 9:
+Generated Array:
+953 640 218 271 127 312 990 231 3 773 279 134 862 484 822 56 274 873 516 440 872 359 203 726 724 372 224 692 708 709 333 137 332 639 631 548 313 642 733 936 575 287 853 745 697 64 665 838 459 450 375 542 396 29 299 17 956 354 777 929 606 257 63 203 549 837 971 222 137 206 362 737 352 135 33 605 937 203 157 795 803 150 760 85 157 123 453 584 667 308 100 151 66 928 185 948 857 495 960 31 
+
+Execution time for Median of Three execution time: 1.72E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001931 seconds
+Execution time for Median of Five without random selection execution time: 1.91E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001443 seconds
+Execution time for Median of Seven without random selection execution time: 1.17E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001657 seconds
+Execution time for Median of Nine without random selection execution time: 1.76E-05 seconds
+
+Array 10:
+Generated Array:
+9 759 731 114 313 50 440 679 34 174 871 76 942 961 887 194 0 918 631 545 870 741 839 723 167 981 51 729 23 168 698 148 150 365 284 666 860 464 637 391 903 480 814 797 593 137 639 662 518 883 278 304 771 860 659 794 24 107 509 890 550 570 929 767 629 147 248 283 105 327 645 184 957 997 728 975 374 928 358 245 252 458 862 978 927 634 630 355 841 282 954 860 568 623 621 952 599 296 225 526 
+
+Execution time for Median of Three execution time: 1.17E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001656 seconds
+Execution time for Median of Five without random selection execution time: 1.83E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001385 seconds
+Execution time for Median of Seven without random selection execution time: 1.2E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0923566 seconds
+Execution time for Median of Nine without random selection execution time: 1.69E-05 seconds
+
+Array 11:
+Generated Array:
+927 607 967 458 389 976 262 80 375 75 852 914 627 484 4 997 327 48 444 88 237 35 514 0 57 933 686 301 521 454 584 163 555 906 382 914 610 874 240 675 693 339 893 554 38 276 433 527 285 954 69 977 847 157 841 810 967 644 915 220 297 617 855 671 235 474 907 183 637 787 972 73 658 987 999 568 982 637 84 490 297 711 239 2 836 644 402 439 10 142 166 974 90 249 37 409 258 562 329 269 
+
+Execution time for Median of Three execution time: 1.56E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001869 seconds
+Execution time for Median of Five without random selection execution time: 1.7E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001957 seconds
+Execution time for Median of Seven without random selection execution time: 1.67E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002904 seconds
+Execution time for Median of Nine without random selection execution time: 1.63E-05 seconds
+
+Array 12:
+Generated Array:
+921 251 748 886 769 14 437 160 851 664 745 43 819 253 725 246 20 798 821 718 336 646 933 550 891 841 135 771 295 831 323 136 30 938 72 21 217 523 169 533 602 746 6 51 703 258 426 900 159 125 356 54 372 933 143 223 715 945 394 321 213 976 1 477 727 258 280 499 380 681 705 366 295 821 628 994 78 495 301 686 847 568 271 990 92 854 669 799 819 703 662 633 709 701 250 382 396 268 94 520 
+
+Execution time for Median of Three execution time: 8E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.000181 seconds
+Execution time for Median of Five without random selection execution time: 1.75E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001784 seconds
+Execution time for Median of Seven without random selection execution time: 1.6E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001906 seconds
+Execution time for Median of Nine without random selection execution time: 1.76E-05 seconds
+
+Array 13:
+Generated Array:
+774 759 883 956 878 543 378 965 113 902 952 120 173 313 990 910 621 355 795 922 766 834 362 440 955 235 638 530 99 261 105 113 686 679 498 295 433 459 395 148 842 200 878 959 828 178 321 18 792 988 807 943 728 47 525 969 469 30 462 180 703 681 778 203 691 243 13 582 306 693 429 75 603 271 162 869 568 250 624 81 234 995 606 985 577 716 675 629 33 260 299 175 262 287 2 712 289 102 583 844 
+
+Execution time for Median of Three execution time: 1.5E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002475 seconds
+Execution time for Median of Five without random selection execution time: 1.69E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002165 seconds
+Execution time for Median of Seven without random selection execution time: 1.68E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002005 seconds
+Execution time for Median of Nine without random selection execution time: 1.76E-05 seconds
+
+Array 14:
+Generated Array:
+927 127 11 166 456 550 419 381 540 501 477 234 424 876 631 724 598 205 796 656 312 402 862 355 152 796 286 699 69 895 185 46 236 821 28 240 526 752 39 748 889 682 148 560 133 674 748 783 92 447 311 365 862 213 364 975 310 850 489 609 843 973 921 996 721 735 681 380 231 786 891 113 78 442 934 579 240 803 709 181 398 593 866 744 593 992 959 64 358 978 876 207 536 718 157 452 476 149 35 590 
+
+Execution time for Median of Three execution time: 1.42E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001933 seconds
+Execution time for Median of Five without random selection execution time: 1.58E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002241 seconds
+Execution time for Median of Seven without random selection execution time: 1.56E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001861 seconds
+Execution time for Median of Nine without random selection execution time: 1.61E-05 seconds
+
+Array 15:
+Generated Array:
+494 172 59 275 713 761 131 405 922 808 11 932 206 284 180 441 407 806 87 717 101 460 191 511 197 620 811 394 261 49 559 776 784 755 7 828 486 989 138 262 661 934 18 736 389 483 421 707 961 367 811 632 604 466 207 986 129 287 350 141 414 176 724 95 507 895 193 83 193 726 671 73 834 789 132 317 449 753 710 111 627 444 158 441 431 908 1 509 281 445 535 203 463 406 229 78 229 735 169 50 
+
+Execution time for Median of Three execution time: 1.46E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0004143 seconds
+Execution time for Median of Five without random selection execution time: 1.5E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002009 seconds
+Execution time for Median of Seven without random selection execution time: 1.47E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002016 seconds
+Execution time for Median of Nine without random selection execution time: 1.54E-05 seconds
+
+Array 16:
+Generated Array:
+432 969 693 200 861 755 226 704 446 513 511 8 596 304 942 255 173 953 821 232 954 550 246 991 629 691 438 559 378 325 34 560 738 151 575 245 201 26 518 50 776 911 796 217 548 260 637 277 7 272 40 199 412 601 272 766 938 556 84 475 952 284 166 777 648 960 88 663 435 757 767 388 860 645 193 868 575 645 367 820 107 460 734 377 156 590 240 983 267 276 55 182 779 625 583 114 294 217 524 506 
+
+Execution time for Median of Three execution time: 1.4E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001874 seconds
+Execution time for Median of Five without random selection execution time: 1.55E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001815 seconds
+Execution time for Median of Seven without random selection execution time: 1.57E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001763 seconds
+Execution time for Median of Nine without random selection execution time: 1.53E-05 seconds
+
+Array 17:
+Generated Array:
+329 40 397 146 936 605 350 171 862 992 188 539 637 735 662 933 610 471 603 771 806 704 380 558 118 632 741 108 758 123 941 15 91 492 75 659 859 869 396 201 124 24 982 70 975 682 133 482 20 63 38 143 186 772 706 736 42 825 167 785 705 295 208 409 238 589 306 476 626 477 420 815 76 397 535 852 574 189 469 382 107 584 584 812 982 105 516 870 51 297 322 743 630 582 479 880 833 798 965 961 
+
+Execution time for Median of Three execution time: 3.32E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0848029 seconds
+Execution time for Median of Five without random selection execution time: 1.71E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002085 seconds
+Execution time for Median of Seven without random selection execution time: 1.59E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002143 seconds
+Execution time for Median of Nine without random selection execution time: 1.63E-05 seconds
+
+Array 18:
+Generated Array:
+617 799 119 461 896 72 317 716 467 845 700 430 656 530 166 375 48 399 909 161 463 901 172 432 405 631 953 819 220 434 66 244 821 809 403 765 815 83 695 729 913 463 29 188 115 343 195 814 403 934 494 462 964 504 143 936 618 98 71 228 671 344 693 603 238 662 914 176 65 847 327 591 894 926 148 498 75 96 551 568 312 424 276 612 404 13 234 959 717 747 147 24 854 993 699 977 196 508 350 604 
+
+Execution time for Median of Three execution time: 1.4E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002061 seconds
+Execution time for Median of Five without random selection execution time: 1.75E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002119 seconds
+Execution time for Median of Seven without random selection execution time: 1.56E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002323 seconds
+Execution time for Median of Nine without random selection execution time: 2.07E-05 seconds
+
+Array 19:
+Generated Array:
+21 995 212 770 449 524 584 886 543 226 477 177 388 987 973 618 59 829 666 241 167 234 738 727 382 123 554 181 723 247 728 75 570 915 903 753 500 452 155 780 526 898 472 88 353 705 482 608 360 143 648 33 764 25 749 690 946 3 399 953 230 853 881 581 280 164 502 105 791 785 417 103 701 709 580 948 480 705 518 298 536 698 826 261 844 847 187 756 819 846 850 41 756 990 569 720 314 849 165 954 
+
+Execution time for Median of Three execution time: 1.35E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001837 seconds
+Execution time for Median of Five without random selection execution time: 1.5E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0003033 seconds
+Execution time for Median of Seven without random selection execution time: 1.61E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0050302 seconds
+Execution time for Median of Nine without random selection execution time: 1.68E-05 seconds
+
+Array 20:
+Generated Array:
+182 796 144 657 567 362 261 392 555 932 375 825 624 482 195 344 302 71 856 7 801 505 528 736 630 5 73 754 163 887 954 613 554 457 534 889 943 459 174 879 162 97 296 547 370 758 887 914 100 367 196 54 944 746 405 180 349 396 516 128 664 17 548 158 29 65 823 104 727 902 631 577 165 144 641 914 658 428 226 927 106 296 593 755 250 823 947 222 435 605 199 318 884 277 738 385 335 767 918 929 
+
+Execution time for Median of Three execution time: 1.67E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002074 seconds
+Execution time for Median of Five without random selection execution time: 1.54E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002849 seconds
+Execution time for Median of Seven without random selection execution time: 1.46E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.000225 seconds
+Execution time for Median of Nine without random selection execution time: 0.0049984 seconds
+
+Array 21:
+Generated Array:
+238 370 853 640 498 38 546 594 921 843 284 368 289 158 496 29 595 863 677 277 6 785 563 906 514 914 94 77 936 875 452 228 513 948 253 999 12 85 640 307 129 174 621 6 269 817 425 57 936 132 259 743 547 784 365 147 751 414 844 481 447 460 135 609 295 836 497 745 402 795 810 980 483 225 810 753 106 775 588 587 273 365 77 786 566 653 970 440 529 732 215 314 268 357 729 684 609 842 411 51 
+
+Execution time for Median of Three execution time: 2.25E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002505 seconds
+Execution time for Median of Five without random selection execution time: 2.33E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0029505 seconds
+Execution time for Median of Seven without random selection execution time: 1.91E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0003183 seconds
+Execution time for Median of Nine without random selection execution time: 3.93E-05 seconds
+
+Array 22:
+Generated Array:
+116 493 881 396 73 529 604 470 551 363 759 608 961 375 805 642 604 269 362 442 100 242 430 256 668 3 563 443 846 315 38 238 56 161 210 148 673 422 802 670 128 248 193 245 705 37 978 965 156 836 193 309 193 808 655 23 679 483 894 186 815 225 596 582 644 109 846 342 673 466 325 681 250 740 6 864 872 597 578 405 71 517 540 542 992 137 777 47 890 897 360 370 851 507 945 121 297 796 286 364 
+
+Execution time for Median of Three execution time: 2.21E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0003609 seconds
+Execution time for Median of Five without random selection execution time: 2.49E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0003376 seconds
+Execution time for Median of Seven without random selection execution time: 1.59E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0867696 seconds
+Execution time for Median of Nine without random selection execution time: 1.74E-05 seconds
+
+Array 23:
+Generated Array:
+626 298 7 26 101 770 388 539 908 104 960 253 920 518 737 785 789 348 101 106 738 287 548 37 200 575 305 435 921 501 408 258 671 773 933 23 870 767 360 991 261 44 28 832 422 516 637 329 869 957 674 179 357 977 607 280 899 40 841 87 728 851 247 65 122 415 227 165 187 229 400 350 517 910 124 659 718 128 700 670 176 140 153 326 368 839 796 918 550 133 133 257 341 403 560 657 255 486 629 722 
+
+Execution time for Median of Three execution time: 1.54E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.000171 seconds
+Execution time for Median of Five without random selection execution time: 1.53E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002671 seconds
+Execution time for Median of Seven without random selection execution time: 1.61E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001825 seconds
+Execution time for Median of Nine without random selection execution time: 1.76E-05 seconds
+
+Array 24:
+Generated Array:
+284 424 658 817 81 770 812 894 130 769 170 144 799 202 0 217 51 184 788 357 453 929 511 754 406 713 462 453 282 276 358 586 547 436 401 142 176 525 461 47 31 851 847 114 933 192 995 425 732 974 585 864 46 662 556 425 891 352 260 780 841 669 550 566 876 664 847 276 983 366 23 517 508 385 252 847 419 867 202 155 279 203 247 286 478 815 928 873 661 83 235 607 747 570 565 276 352 326 502 189 
+
+Execution time for Median of Three execution time: 1.52E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001792 seconds
+Execution time for Median of Five without random selection execution time: 1.48E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001744 seconds
+Execution time for Median of Seven without random selection execution time: 1.47E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0006525 seconds
+Execution time for Median of Nine without random selection execution time: 1.65E-05 seconds
+
+Array 25:
+Generated Array:
+304 15 16 349 951 490 342 49 932 922 346 996 953 671 924 8 678 670 776 8 258 418 144 510 590 538 433 931 527 752 103 727 926 807 934 484 496 159 953 940 774 554 334 776 56 349 209 703 565 828 786 362 498 733 245 940 698 206 562 270 789 273 591 419 683 327 834 486 853 353 354 932 44 821 49 386 330 747 590 959 729 972 175 674 691 908 187 181 816 905 692 907 724 45 491 1 910 661 14 898 
+
+Execution time for Median of Three execution time: 1.46E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001909 seconds
+Execution time for Median of Five without random selection execution time: 1.51E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001926 seconds
+Execution time for Median of Seven without random selection execution time: 1.57E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002148 seconds
+Execution time for Median of Nine without random selection execution time: 1.68E-05 seconds
+
+Array 26:
+Generated Array:
+482 343 398 937 182 272 924 165 923 670 299 518 902 320 676 403 721 193 578 466 64 544 648 343 982 895 116 250 813 645 597 929 560 183 574 215 309 614 790 144 812 503 410 540 429 161 561 673 360 49 26 237 218 957 207 88 329 890 109 59 466 938 942 638 494 387 580 101 484 795 892 442 206 505 730 356 436 778 896 947 807 300 700 717 550 432 712 817 167 552 555 998 868 115 866 409 152 70 347 63 
+
+Execution time for Median of Three execution time: 0.0002853 seconds
+Execution time for Median of Five with random selection execution time: 0.0002487 seconds
+Execution time for Median of Five without random selection execution time: 1.64E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002025 seconds
+Execution time for Median of Seven without random selection execution time: 1.58E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002205 seconds
+Execution time for Median of Nine without random selection execution time: 1.78E-05 seconds
+
+Array 27:
+Generated Array:
+284 877 248 517 854 534 766 872 749 163 718 453 894 3 634 349 918 60 880 144 21 581 111 668 698 780 98 316 992 653 313 923 130 410 691 120 31 608 624 27 573 808 328 815 232 71 781 603 480 646 362 369 145 317 943 39 546 482 77 970 551 162 10 296 347 239 516 148 325 658 997 900 940 771 331 330 879 930 682 414 986 464 334 187 568 128 621 102 96 672 722 379 413 45 63 959 687 665 910 852 
+
+Execution time for Median of Three execution time: 1.59E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002373 seconds
+Execution time for Median of Five without random selection execution time: 1.61E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001913 seconds
+Execution time for Median of Seven without random selection execution time: 1.76E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002022 seconds
+Execution time for Median of Nine without random selection execution time: 1.93E-05 seconds
+
+Array 28:
+Generated Array:
+981 665 516 54 235 375 435 188 5 690 472 894 428 911 101 159 611 319 927 898 223 794 569 926 611 75 459 245 338 176 211 198 241 529 204 655 456 669 785 176 539 13 612 463 647 103 433 537 925 65 584 446 887 88 307 219 707 309 360 2 951 896 216 679 795 383 888 769 391 625 170 219 241 242 641 366 953 519 151 538 726 735 945 160 478 717 303 970 240 686 965 735 430 891 372 664 565 863 690 335 
+
+Execution time for Median of Three execution time: 1.59E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002597 seconds
+Execution time for Median of Five without random selection execution time: 1.61E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002419 seconds
+Execution time for Median of Seven without random selection execution time: 1.79E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002214 seconds
+Execution time for Median of Nine without random selection execution time: 1.57E-05 seconds
+
+Array 29:
+Generated Array:
+565 923 481 596 713 335 390 285 864 439 298 808 794 689 572 174 637 126 969 182 479 176 168 760 550 212 667 533 690 837 674 515 146 278 882 925 167 974 471 813 944 509 983 675 524 137 430 702 496 810 453 773 863 998 747 615 907 662 733 946 466 265 974 156 164 848 295 987 944 275 377 617 474 651 67 939 13 485 862 459 402 111 502 615 635 69 690 20 890 998 758 649 224 120 373 487 485 584 176 881 
+
+Execution time for Median of Three execution time: 1.43E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002082 seconds
+Execution time for Median of Five without random selection execution time: 1.54E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001886 seconds
+Execution time for Median of Seven without random selection execution time: 1.54E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002184 seconds
+Execution time for Median of Nine without random selection execution time: 3.13E-05 seconds
+
+Array 30:
+Generated Array:
+847 619 22 59 137 992 41 463 456 896 972 240 458 816 461 490 83 429 979 784 646 887 806 818 150 224 826 416 439 73 347 476 232 287 923 587 911 686 419 525 770 944 662 491 579 446 652 394 630 853 106 740 424 672 55 174 534 916 750 366 295 164 558 534 481 509 384 583 170 108 110 647 483 320 320 225 357 847 963 159 337 151 260 408 348 148 436 730 418 8 573 599 297 980 133 387 268 995 392 594 
+
+Execution time for Median of Three execution time: 1.54E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001918 seconds
+Execution time for Median of Five without random selection execution time: 2.31E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0004445 seconds
+Execution time for Median of Seven without random selection execution time: 1.8E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002787 seconds
+Execution time for Median of Nine without random selection execution time: 2.08E-05 seconds
+
+Array 31:
+Generated Array:
+467 783 362 761 264 246 293 49 503 900 937 560 75 136 600 422 885 938 701 770 615 634 492 196 357 593 756 940 365 348 488 25 910 113 298 74 714 45 574 66 42 177 957 73 372 162 883 556 763 885 114 303 987 315 947 807 217 357 777 825 180 891 49 861 116 871 72 792 918 282 234 910 276 114 37 253 798 241 263 595 988 76 199 536 367 191 265 422 275 541 570 46 711 943 345 82 230 449 280 845 
+
+Execution time for Median of Three execution time: 2.14E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002293 seconds
+Execution time for Median of Five without random selection execution time: 1.59E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0873723 seconds
+Execution time for Median of Seven without random selection execution time: 1.98E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0003111 seconds
+Execution time for Median of Nine without random selection execution time: 1.87E-05 seconds
+
+Array 32:
+Generated Array:
+819 384 423 682 234 328 222 178 372 350 256 470 250 906 261 938 538 605 747 538 667 877 114 548 806 988 309 392 879 649 542 441 37 446 148 153 319 270 834 244 160 796 681 175 856 74 857 601 990 902 760 679 89 666 922 700 996 938 231 299 742 793 428 371 275 906 515 747 739 22 984 611 239 692 545 359 747 468 816 591 586 222 296 611 190 627 819 505 609 808 41 565 3 351 993 100 896 174 695 359 
+
+Execution time for Median of Three execution time: 1.7E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001972 seconds
+Execution time for Median of Five without random selection execution time: 1.6E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002011 seconds
+Execution time for Median of Seven without random selection execution time: 1.79E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001819 seconds
+Execution time for Median of Nine without random selection execution time: 1.98E-05 seconds
+
+Array 33:
+Generated Array:
+697 352 739 715 607 405 676 887 83 573 408 918 776 438 567 601 156 328 502 678 610 25 421 156 896 216 642 881 132 996 531 310 116 43 806 962 781 238 119 377 196 513 583 289 887 907 138 358 480 89 616 366 267 798 803 734 797 546 338 27 656 722 492 578 250 611 859 292 326 695 755 831 532 494 655 688 384 345 413 326 154 480 841 285 938 472 237 177 118 285 132 745 911 191 639 536 287 664 539 661 
+
+Execution time for Median of Three execution time: 0.0014844 seconds
+Execution time for Median of Five with random selection execution time: 0.0001935 seconds
+Execution time for Median of Five without random selection execution time: 1.78E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001972 seconds
+Execution time for Median of Seven without random selection execution time: 1.55E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0005245 seconds
+Execution time for Median of Nine without random selection execution time: 1.9E-05 seconds
+
+Array 34:
+Generated Array:
+575 508 644 683 172 550 190 657 110 401 735 405 813 616 704 318 969 358 786 664 347 329 299 633 419 578 508 400 197 606 330 357 930 469 539 104 35 152 770 973 820 503 570 755 646 346 539 191 964 492 173 153 478 847 781 129 907 588 192 503 972 158 698 722 109 917 771 826 167 209 148 526 109 612 818 137 781 217 313 836 159 877 511 179 394 213 124 539 67 375 262 776 952 284 883 75 399 83 906 663 
+
+Execution time for Median of Three execution time: 1.68E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001833 seconds
+Execution time for Median of Five without random selection execution time: 1.58E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001904 seconds
+Execution time for Median of Seven without random selection execution time: 1.71E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001993 seconds
+Execution time for Median of Nine without random selection execution time: 1.57E-05 seconds
+
+Array 35:
+Generated Array:
+895 973 174 10 780 637 825 345 763 904 910 596 386 559 200 354 898 32 446 195 548 638 853 678 143 170 674 478 597 348 906 679 479 931 871 565 311 708 950 144 227 831 504 505 639 473 849 121 385 541 688 939 13 129 711 454 529 456 731 579 346 809 673 342 259 739 142 981 538 4 390 525 331 96 498 759 172 369 534 78 334 905 900 48 795 313 921 306 361 911 490 380 717 107 588 817 597 455 922 73 
+
+Execution time for Median of Three execution time: 0.0001979 seconds
+Execution time for Median of Five with random selection execution time: 0.0001886 seconds
+Execution time for Median of Five without random selection execution time: 1.52E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002984 seconds
+Execution time for Median of Seven without random selection execution time: 1.97E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002167 seconds
+Execution time for Median of Nine without random selection execution time: 1.65E-05 seconds
+
+Array 36:
+Generated Array:
+960 838 324 531 385 310 620 607 268 118 662 676 202 956 238 578 480 997 714 789 523 218 7 623 609 529 619 212 54 247 728 308 654 740 659 757 427 955 473 246 430 572 99 587 820 1 987 315 240 989 674 696 758 244 210 308 832 833 93 972 695 778 677 842 703 864 8 477 338 234 319 278 35 598 205 812 446 37 719 233 972 518 256 820 392 728 326 187 271 431 633 386 513 618 181 745 573 25 738 338 
+
+Execution time for Median of Three execution time: 1.69E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0003576 seconds
+Execution time for Median of Five without random selection execution time: 1.59E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002346 seconds
+Execution time for Median of Seven without random selection execution time: 1.68E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002181 seconds
+Execution time for Median of Nine without random selection execution time: 1.83E-05 seconds
+
+Array 37:
+Generated Array:
+21 756 931 457 837 31 873 912 380 725 205 316 30 268 151 772 485 776 236 645 551 91 125 491 172 53 232 65 409 849 670 115 317 122 583 7 805 788 748 215 368 721 824 704 52 868 69 479 775 759 942 424 213 960 946 843 296 700 806 390 195 769 121 52 320 454 50 438 902 608 82 80 871 358 187 512 875 612 258 84 712 228 959 728 785 419 117 424 183 694 483 427 255 348 741 322 726 338 138 746 
+
+Execution time for Median of Three execution time: 1.43E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001863 seconds
+Execution time for Median of Five without random selection execution time: 1.76E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0003991 seconds
+Execution time for Median of Seven without random selection execution time: 1.77E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001978 seconds
+Execution time for Median of Nine without random selection execution time: 1.67E-05 seconds
+
+Array 38:
+Generated Array:
+980 621 402 336 936 562 146 764 361 461 468 263 144 858 337 669 317 667 256 137 451 317 744 231 700 9 545 709 432 128 603 417 377 621 730 764 859 254 904 852 528 453 669 129 62 643 716 738 538 267 529 737 946 543 661 30 749 637 598 134 763 486 139 514 93 845 94 496 299 315 798 984 273 33 988 93 529 809 308 992 976 90 200 17 276 304 494 285 393 964 753 698 646 7 75 235 505 640 339 917 
+
+Execution time for Median of Three execution time: 1.63E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001708 seconds
+Execution time for Median of Five without random selection execution time: 2.25E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002103 seconds
+Execution time for Median of Seven without random selection execution time: 1.95E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002752 seconds
+Execution time for Median of Nine without random selection execution time: 1.69E-05 seconds
+
+Array 39:
+Generated Array:
+267 988 112 440 10 776 548 963 424 472 384 986 473 485 641 316 657 376 665 822 993 933 985 764 588 608 440 482 555 511 884 686 561 381 21 253 838 224 617 13 484 549 26 174 435 105 29 315 807 191 221 306 996 853 927 12 408 469 526 826 941 923 706 500 523 637 294 70 146 712 992 557 721 488 909 909 222 587 104 994 360 371 335 578 386 167 437 340 989 211 751 770 841 6 20 731 321 18 440 54 
+
+Execution time for Median of Three execution time: 1.15E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001816 seconds
+Execution time for Median of Five without random selection execution time: 1.69E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001867 seconds
+Execution time for Median of Seven without random selection execution time: 1.72E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002754 seconds
+Execution time for Median of Nine without random selection execution time: 2.36E-05 seconds
+
+Array 40:
+Generated Array:
+126 689 318 129 980 874 476 226 458 894 506 32 729 192 641 545 816 770 360 737 21 593 634 576 893 908 580 811 558 785 333 170 43 72 244 803 321 643 596 876 223 341 363 235 319 149 247 918 132 663 754 314 206 593 284 147 776 896 834 531 634 441 909 359 325 134 901 463 550 990 62 217 422 254 17 315 131 18 693 822 134 769 897 669 367 627 419 596 801 365 314 491 326 945 873 421 476 568 757 830 
+
+Execution time for Median of Three execution time: 2.04E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002046 seconds
+Execution time for Median of Five without random selection execution time: 2.47E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001977 seconds
+Execution time for Median of Seven without random selection execution time: 2.12E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002434 seconds
+Execution time for Median of Nine without random selection execution time: 1.58E-05 seconds
+
+Array 41:
+Generated Array:
+779 128 485 177 473 193 878 186 459 519 519 507 393 459 453 439 819 845 327 645 442 576 493 781 833 394 291 132 454 40 992 125 695 369 309 747 418 0 50 152 940 941 556 879 794 207 979 327 891 841 556 313 298 822 647 61 932 796 502 870 426 250 386 791 997 311 778 30 484 233 588 130 429 772 912 489 202 61 344 656 255 274 118 837 123 678 219 132 94 542 814 635 131 924 816 913 569 580 655 237 
+
+Execution time for Median of Three execution time: 1.5E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.000441 seconds
+Execution time for Median of Five without random selection execution time: 3.24E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002683 seconds
+Execution time for Median of Seven without random selection execution time: 3.42E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002332 seconds
+Execution time for Median of Nine without random selection execution time: 3.54E-05 seconds
+
+Array 42:
+Generated Array:
+677 90 149 382 660 556 594 441 139 175 122 986 371 855 566 735 394 848 4 527 807 958 209 905 4 797 900 183 131 817 363 526 323 412 336 931 585 59 404 6 644 668 796 359 551 829 273 632 416 661 908 656 742 143 913 432 349 672 546 74 806 139 580 371 628 645 515 194 549 384 154 376 984 151 586 274 379 823 625 955 392 433 676 358 580 300 783 495 415 2 244 191 538 618 694 924 634 3 181 299 
+
+Execution time for Median of Three execution time: 1.89E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.000198 seconds
+Execution time for Median of Five without random selection execution time: 1.92E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0006955 seconds
+Execution time for Median of Seven without random selection execution time: 1.81E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001683 seconds
+Execution time for Median of Nine without random selection execution time: 1.98E-05 seconds
+
+Array 43:
+Generated Array:
+416 723 498 886 692 423 721 171 647 835 61 552 637 345 646 960 69 234 691 221 730 411 915 33 482 989 534 117 584 976 585 233 100 130 428 866 219 981 92 991 64 705 512 940 612 904 823 354 678 391 472 681 926 171 147 223 596 748 465 841 857 386 598 171 67 245 545 528 700 978 554 303 830 944 118 208 617 972 784 997 147 360 475 25 905 957 271 941 970 698 926 978 54 216 119 104 22 551 923 449 
+
+Execution time for Median of Three execution time: 1.46E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002202 seconds
+Execution time for Median of Five without random selection execution time: 1.61E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0015212 seconds
+Execution time for Median of Seven without random selection execution time: 1.64E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002082 seconds
+Execution time for Median of Nine without random selection execution time: 1.83E-05 seconds
+
+Array 44:
+Generated Array:
+454 456 780 835 487 29 202 724 645 149 424 486 389 593 296 21 13 733 242 487 485 61 284 977 733 992 665 225 591 119 552 451 109 974 935 374 1 195 713 220 792 46 838 177 233 562 488 59 11 86 453 172 577 162 875 494 63 284 171 247 940 962 848 902 367 575 647 18 901 478 403 969 32 380 401 958 81 799 7 343 159 89 192 662 995 703 281 120 495 880 966 853 936 26 801 800 429 142 609 587 
+
+Execution time for Median of Three execution time: 1.52E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001893 seconds
+Execution time for Median of Five without random selection execution time: 1.82E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002155 seconds
+Execution time for Median of Seven without random selection execution time: 1.74E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001879 seconds
+Execution time for Median of Nine without random selection execution time: 1.66E-05 seconds
+
+Array 45:
+Generated Array:
+98 412 612 524 956 870 730 759 185 777 155 14 872 12 313 691 790 708 933 51 321 488 737 67 228 94 894 52 992 307 721 784 824 724 360 900 542 793 319 88 394 243 750 801 547 244 255 288 563 749 346 403 361 44 645 764 903 229 573 720 271 136 216 609 750 208 770 461 141 657 630 356 480 43 799 972 275 414 968 498 659 108 961 123 593 441 404 505 675 178 957 901 463 989 982 623 165 179 105 602 
+
+Execution time for Median of Three execution time: 1.46E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.000199 seconds
+Execution time for Median of Five without random selection execution time: 1.56E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0848658 seconds
+Execution time for Median of Seven without random selection execution time: 1.69E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002015 seconds
+Execution time for Median of Nine without random selection execution time: 1.72E-05 seconds
+
+Array 46:
+Generated Array:
+721 67 430 775 676 696 32 341 991 334 653 824 986 39 642 766 640 175 495 826 980 279 38 496 705 899 259 841 750 328 209 560 646 428 490 306 209 824 564 833 651 951 916 111 578 467 165 389 152 381 102 379 600 375 697 109 305 25 572 883 521 780 477 480 824 636 53 277 553 152 777 80 648 647 184 823 632 719 302 257 22 311 676 707 60 613 282 42 961 382 360 700 934 820 699 269 410 467 739 161 
+
+Execution time for Median of Three execution time: 1.57E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001671 seconds
+Execution time for Median of Five without random selection execution time: 1.8E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.002018 seconds
+Execution time for Median of Seven without random selection execution time: 4.48E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002319 seconds
+Execution time for Median of Nine without random selection execution time: 1.65E-05 seconds
+
+Array 47:
+Generated Array:
+540 424 306 210 694 357 631 393 247 694 352 551 204 797 668 569 449 341 640 76 907 695 165 212 921 854 122 792 286 243 0 202 597 719 433 845 1 694 818 755 214 740 418 936 622 764 567 409 326 76 821 998 162 595 240 560 355 537 820 967 819 156 652 350 846 360 517 278 126 606 668 200 404 654 648 748 258 622 811 482 24 480 461 191 878 504 457 806 927 187 237 724 155 974 896 446 833 459 61 664 
+
+Execution time for Median of Three execution time: 1.58E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002004 seconds
+Execution time for Median of Five without random selection execution time: 1.87E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001653 seconds
+Execution time for Median of Seven without random selection execution time: 1.55E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002144 seconds
+Execution time for Median of Nine without random selection execution time: 1.98E-05 seconds
+
+Array 48:
+Generated Array:
+423 215 721 300 334 732 354 13 663 33 304 660 324 551 259 834 120 672 444 495 894 780 725 208 734 24 836 849 296 980 153 131 75 639 696 751 982 235 558 19 300 454 954 98 571 829 912 480 421 208 343 969 348 34 355 789 797 459 622 737 34 66 410 461 142 86 527 245 922 342 210 925 859 4 262 87 146 498 11 833 33 546 214 872 180 843 382 63 924 778 290 300 514 565 259 835 210 831 195 957 
+
+Execution time for Median of Three execution time: 1.5E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002212 seconds
+Execution time for Median of Five without random selection execution time: 1.88E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.000178 seconds
+Execution time for Median of Seven without random selection execution time: 1.55E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001882 seconds
+Execution time for Median of Nine without random selection execution time: 1.59E-05 seconds
+
+Array 49:
+Generated Array:
+757 671 142 877 503 960 175 354 325 338 111 202 76 109 409 68 245 118 180 867 125 451 902 625 825 691 47 258 562 94 191 623 925 451 520 716 429 131 518 383 219 971 484 759 254 307 441 164 673 47 348 267 763 524 992 683 706 143 22 150 830 300 225 349 609 51 254 418 627 322 885 48 32 919 739 300 359 275 822 10 746 40 906 452 17 719 106 604 238 584 837 106 52 28 184 492 440 263 96 584 
+
+Execution time for Median of Three execution time: 1.54E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001875 seconds
+Execution time for Median of Five without random selection execution time: 1.62E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0052446 seconds
+Execution time for Median of Seven without random selection execution time: 2.05E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.000194 seconds
+Execution time for Median of Nine without random selection execution time: 1.53E-05 seconds
+
+Array 50:
+Generated Array:
+190 960 494 99 600 569 490 943 68 934 597 379 729 404 969 63 117 187 978 142 310 965 994 195 690 835 692 435 78 773 755 362 167 810 597 322 568 386 625 961 973 216 334 6 107 496 359 139 399 943 121 991 999 257 685 109 252 555 443 335 437 843 195 144 387 188 583 520 829 443 972 945 400 897 634 355 863 362 575 442 550 42 516 119 611 825 52 424 95 459 39 831 299 434 499 343 961 624 202 355 
+
+Execution time for Median of Three execution time: 1.79E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001861 seconds
+Execution time for Median of Five without random selection execution time: 2.56E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001879 seconds
+Execution time for Median of Seven without random selection execution time: 1.95E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002001 seconds
+Execution time for Median of Nine without random selection execution time: 1.24E-05 seconds
+
+Array 51:
+Generated Array:
+903 721 114 591 816 876 13 487 8 700 282 210 851 928 133 357 577 270 935 970 359 383 538 431 97 958 7 996 378 72 726 952 480 772 494 896 381 141 466 128 459 62 67 705 853 941 730 158 781 579 687 728 120 24 711 23 782 815 696 312 797 712 825 732 514 16 958 571 193 954 683 770 447 876 636 592 243 55 46 492 915 81 634 872 242 977 261 570 33 7 869 490 677 525 238 825 378 218 156 830 
+
+Execution time for Median of Three execution time: 1.13E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002587 seconds
+Execution time for Median of Five without random selection execution time: 1.25E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.000125 seconds
+Execution time for Median of Seven without random selection execution time: 1.19E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001376 seconds
+Execution time for Median of Nine without random selection execution time: 3.57E-05 seconds
+
+Array 52:
+Generated Array:
+551 291 439 727 36 122 69 543 803 57 735 251 947 728 534 512 785 844 220 897 889 530 420 48 102 711 212 239 425 718 368 494 737 939 174 706 821 320 381 83 943 604 295 627 810 164 352 625 966 755 628 651 507 162 696 673 152 385 131 681 531 207 900 271 34 791 905 295 930 927 946 917 142 309 433 426 456 466 994 796 77 422 827 888 581 578 653 129 846 56 820 765 439 597 626 848 649 687 543 49 
+
+Execution time for Median of Three execution time: 1.13E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001483 seconds
+Execution time for Median of Five without random selection execution time: 1.16E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001516 seconds
+Execution time for Median of Seven without random selection execution time: 1.15E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001683 seconds
+Execution time for Median of Nine without random selection execution time: 1.81E-05 seconds
+
+Array 53:
+Generated Array:
+547 907 516 251 433 506 286 706 296 466 31 740 7 909 49 925 105 670 102 877 414 801 999 344 863 163 312 365 169 42 722 120 169 515 712 254 171 471 329 294 153 821 708 365 113 560 284 847 501 688 683 527 243 288 116 725 361 381 377 870 752 38 4 572 171 847 890 186 977 35 572 376 813 621 794 993 344 336 4 916 894 666 266 898 978 764 363 395 43 845 410 569 654 25 699 988 765 151 384 329 
+
+Execution time for Median of Three execution time: 1.52E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001998 seconds
+Execution time for Median of Five without random selection execution time: 2.18E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002009 seconds
+Execution time for Median of Seven without random selection execution time: 1.78E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002006 seconds
+Execution time for Median of Nine without random selection execution time: 1.47E-05 seconds
+
+Array 54:
+Generated Array:
+870 456 593 396 583 649 787 248 614 432 303 750 657 346 902 293 863 211 832 35 409 602 845 299 125 852 62 711 722 964 798 815 710 40 573 71 128 673 104 249 428 84 252 691 573 922 94 625 95 468 414 815 169 56 874 501 601 891 318 327 912 73 294 296 964 460 203 845 410 144 61 223 481 907 554 945 946 826 605 331 460 888 272 351 77 694 658 537 229 293 414 612 556 578 580 553 573 660 754 558 
+
+Execution time for Median of Three execution time: 1.49E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001833 seconds
+Execution time for Median of Five without random selection execution time: 1.38E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0861305 seconds
+Execution time for Median of Seven without random selection execution time: 2.49E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002565 seconds
+Execution time for Median of Nine without random selection execution time: 2.22E-05 seconds
+
+Array 55:
+Generated Array:
+677 543 503 142 229 28 933 843 824 105 51 95 751 437 201 872 242 150 535 780 659 253 2 375 99 591 959 587 670 930 815 789 381 668 895 27 327 502 731 199 82 714 178 876 413 468 978 646 111 604 752 964 982 688 301 502 142 598 261 737 706 850 204 244 512 929 95 584 986 670 204 356 214 414 663 566 620 47 945 992 299 495 611 673 805 65 553 558 770 899 96 813 9 886 278 726 654 720 192 646 
+
+Execution time for Median of Three execution time: 2.29E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002184 seconds
+Execution time for Median of Five without random selection execution time: 2.28E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002015 seconds
+Execution time for Median of Seven without random selection execution time: 2.26E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.000257 seconds
+Execution time for Median of Nine without random selection execution time: 1.84E-05 seconds
+
+Array 56:
+Generated Array:
+113 264 850 940 518 220 671 831 467 750 603 433 449 128 631 864 235 893 316 667 481 108 769 262 843 915 220 937 182 888 437 391 753 799 433 115 23 490 175 196 874 154 630 126 128 756 627 921 507 265 347 42 734 261 94 717 724 33 686 709 162 595 156 643 66 80 332 319 801 171 682 256 295 5 985 459 513 109 828 201 50 748 243 654 132 640 515 648 282 223 680 900 589 162 331 233 505 908 387 981 
+
+Execution time for Median of Three execution time: 2.14E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002055 seconds
+Execution time for Median of Five without random selection execution time: 2.53E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.000229 seconds
+Execution time for Median of Seven without random selection execution time: 2.49E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0003792 seconds
+Execution time for Median of Nine without random selection execution time: 2.15E-05 seconds
+
+Array 57:
+Generated Array:
+531 371 793 303 64 361 120 773 451 986 152 233 296 77 438 198 944 195 385 423 454 772 74 568 523 486 307 386 465 975 593 629 338 108 48 42 437 151 502 981 581 751 647 408 662 18 892 727 165 329 951 659 797 556 919 980 985 217 411 964 16 662 911 673 991 715 183 247 185 999 684 844 429 108 530 469 379 685 63 608 385 511 925 269 612 664 578 691 137 579 628 188 234 381 227 463 606 689 858 891 
+
+Execution time for Median of Three execution time: 2.29E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0003173 seconds
+Execution time for Median of Five without random selection execution time: 1.63E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0003014 seconds
+Execution time for Median of Seven without random selection execution time: 1.41E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0004697 seconds
+Execution time for Median of Nine without random selection execution time: 1.53E-05 seconds
+
+Array 58:
+Generated Array:
+899 92 12 761 834 706 154 630 591 932 655 44 727 476 731 484 236 288 285 271 885 410 145 96 882 168 84 166 41 873 520 747 211 425 474 785 165 895 695 131 504 216 476 228 826 967 198 325 297 809 47 953 469 600 535 387 274 19 407 636 488 902 29 411 190 182 938 765 720 294 726 164 939 5 18 524 118 386 103 335 22 788 442 794 944 789 49 525 821 530 250 378 811 366 248 571 17 213 893 577 
+
+Execution time for Median of Three execution time: 1.56E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002087 seconds
+Execution time for Median of Five without random selection execution time: 1.96E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002622 seconds
+Execution time for Median of Seven without random selection execution time: 1.69E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002016 seconds
+Execution time for Median of Nine without random selection execution time: 2.22E-05 seconds
+
+Array 59:
+Generated Array:
+398 700 110 496 2 381 799 165 486 620 20 706 441 29 173 505 586 158 954 542 867 493 214 249 53 454 485 223 110 725 341 395 535 173 581 449 169 199 320 66 360 866 553 956 925 998 570 18 216 10 468 43 134 240 772 178 570 285 75 874 392 990 193 238 893 772 696 722 737 680 227 413 752 30 734 337 376 513 36 702 29 949 591 986 720 834 337 512 912 564 155 415 904 970 664 298 517 847 721 283 
+
+Execution time for Median of Three execution time: 1.83E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002257 seconds
+Execution time for Median of Five without random selection execution time: 2.03E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002839 seconds
+Execution time for Median of Seven without random selection execution time: 1.73E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.000217 seconds
+Execution time for Median of Nine without random selection execution time: 1.91E-05 seconds
+
+Array 60:
+Generated Array:
+165 844 172 999 886 603 729 25 735 79 471 51 839 8 307 500 356 705 369 228 589 104 7 872 587 808 455 376 343 55 202 920 175 795 62 860 744 859 455 252 283 148 333 723 385 407 336 239 352 296 735 683 922 48 692 105 558 959 3 476 637 322 758 79 690 269 66 711 961 419 716 794 659 987 843 869 175 808 762 124 812 100 401 360 741 661 69 475 518 655 687 635 106 644 865 529 631 714 344 97 
+
+Execution time for Median of Three execution time: 2.07E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001995 seconds
+Execution time for Median of Five without random selection execution time: 1.79E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002099 seconds
+Execution time for Median of Seven without random selection execution time: 2.23E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002071 seconds
+Execution time for Median of Nine without random selection execution time: 1.86E-05 seconds
+
+Array 61:
+Generated Array:
+43 628 421 258 593 582 233 178 231 1 49 109 649 687 258 457 472 616 670 444 681 350 57 11 45 948 448 826 319 593 166 349 752 420 637 366 682 99 643 49 259 882 423 500 805 942 684 488 610 967 933 785 87 222 145 309 839 224 681 817 138 880 160 436 21 37 547 172 705 514 91 820 729 132 212 253 155 742 890 25 913 962 350 280 306 68 334 829 953 735 86 153 564 841 913 473 19 506 232 476 
+
+Execution time for Median of Three execution time: 1.64E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0003113 seconds
+Execution time for Median of Five without random selection execution time: 0.0001034 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002497 seconds
+Execution time for Median of Seven without random selection execution time: 1.73E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0003239 seconds
+Execution time for Median of Nine without random selection execution time: 2.15E-05 seconds
+
+Array 62:
+Generated Array:
+208 945 751 465 689 360 905 808 194 896 750 427 777 961 697 668 105 227 129 500 121 372 163 130 862 686 311 32 318 816 311 260 208 865 344 994 764 615 556 128 127 892 662 929 782 586 939 695 178 348 633 599 615 778 976 163 773 460 492 333 956 272 60 756 392 430 18 173 321 836 60 230 749 507 919 513 565 161 852 702 254 986 8 200 777 141 683 858 289 188 90 763 186 610 228 30 453 528 588 540 
+
+Execution time for Median of Three execution time: 1.98E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002074 seconds
+Execution time for Median of Five without random selection execution time: 2.43E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002247 seconds
+Execution time for Median of Seven without random selection execution time: 1.61E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002902 seconds
+Execution time for Median of Nine without random selection execution time: 1.77E-05 seconds
+
+Array 63:
+Generated Array:
+457 225 988 655 171 559 562 589 945 124 328 849 299 785 396 932 881 785 360 624 871 736 796 664 742 234 324 865 639 616 474 905 666 806 301 357 159 845 921 291 25 168 956 652 13 474 86 133 990 971 729 692 360 1 281 723 146 741 286 549 270 666 830 46 496 610 146 90 522 298 689 710 333 202 439 814 522 789 978 614 504 649 613 51 147 609 640 32 736 979 662 812 736 720 438 491 608 606 824 845 
+
+Execution time for Median of Three execution time: 1.74E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002065 seconds
+Execution time for Median of Five without random selection execution time: 2.02E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002295 seconds
+Execution time for Median of Seven without random selection execution time: 2.14E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002446 seconds
+Execution time for Median of Nine without random selection execution time: 2.25E-05 seconds
+
+Array 64:
+Generated Array:
+214 49 278 746 300 372 574 86 172 356 188 629 541 438 220 477 776 787 477 413 774 621 36 372 490 688 807 890 430 299 687 327 241 670 92 79 235 454 408 776 999 917 162 626 778 93 760 908 650 578 946 556 179 998 958 913 489 102 777 110 190 671 267 942 880 735 149 354 711 497 589 121 824 968 685 824 821 82 820 535 133 417 522 742 419 36 303 295 182 79 164 271 440 517 130 270 162 890 18 304 
+
+Execution time for Median of Three execution time: 2.09E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002242 seconds
+Execution time for Median of Five without random selection execution time: 1.81E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001931 seconds
+Execution time for Median of Seven without random selection execution time: 1.42E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002151 seconds
+Execution time for Median of Nine without random selection execution time: 1.53E-05 seconds
+
+Array 65:
+Generated Array:
+869 358 4 238 869 322 376 819 734 475 555 480 883 787 900 371 56 674 849 884 193 531 615 539 570 469 354 581 52 732 129 78 695 995 408 975 197 149 678 146 578 651 967 573 381 914 103 33 95 387 865 595 75 740 661 313 874 318 661 816 534 843 372 483 989 171 896 326 113 856 76 434 764 482 847 879 679 729 939 95 50 552 713 985 223 572 657 26 313 842 139 614 401 863 160 584 562 824 444 53 
+
+Execution time for Median of Three execution time: 1.91E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002317 seconds
+Execution time for Median of Five without random selection execution time: 1.73E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001834 seconds
+Execution time for Median of Seven without random selection execution time: 1.66E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002302 seconds
+Execution time for Median of Nine without random selection execution time: 1.91E-05 seconds
+
+Array 66:
+Generated Array:
+444 751 101 623 309 181 27 875 617 884 65 996 919 407 790 206 106 64 306 684 739 854 664 933 531 382 531 186 972 133 156 488 772 232 404 966 720 665 599 884 144 520 966 831 35 656 216 412 163 402 207 468 868 75 341 737 127 248 621 901 359 82 838 726 656 176 730 761 897 767 197 917 397 736 866 890 479 445 123 513 208 668 171 994 481 887 446 572 703 199 861 145 506 536 587 902 313 489 253 347 
+
+Execution time for Median of Three execution time: 3.59E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002148 seconds
+Execution time for Median of Five without random selection execution time: 1.72E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002177 seconds
+Execution time for Median of Seven without random selection execution time: 1.62E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002261 seconds
+Execution time for Median of Nine without random selection execution time: 1.56E-05 seconds
+
+Array 67:
+Generated Array:
+19 38 644 311 444 729 318 880 57 184 384 243 527 235 917 181 590 488 720 517 428 906 513 230 24 812 943 191 510 873 321 700 464 708 615 313 339 100 971 416 535 311 128 554 323 699 207 102 428 463 130 935 733 529 477 711 442 942 490 357 859 451 935 757 624 460 399 331 414 162 563 603 25 372 565 434 270 558 202 462 521 936 957 494 143 409 825 21 882 910 340 190 883 512 175 988 70 564 196 143 
+
+Execution time for Median of Three execution time: 1.46E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002176 seconds
+Execution time for Median of Five without random selection execution time: 1.82E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002248 seconds
+Execution time for Median of Seven without random selection execution time: 3.72E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002342 seconds
+Execution time for Median of Nine without random selection execution time: 1.53E-05 seconds
+
+Array 68:
+Generated Array:
+910 596 41 637 337 24 194 27 99 771 124 544 860 13 428 806 569 987 171 748 871 28 695 740 601 233 329 11 827 304 573 953 901 945 564 629 990 479 31 187 888 386 207 254 400 509 975 146 335 427 353 737 267 942 494 395 567 490 445 582 102 95 994 725 470 453 799 825 834 351 901 935 867 425 472 704 80 911 675 708 959 633 235 728 975 128 148 207 291 82 160 513 864 328 799 117 760 189 693 365 
+
+Execution time for Median of Three execution time: 1.5E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.000324 seconds
+Execution time for Median of Five without random selection execution time: 1.52E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001393 seconds
+Execution time for Median of Seven without random selection execution time: 1.18E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001878 seconds
+Execution time for Median of Nine without random selection execution time: 2.21E-05 seconds
+
+Array 69:
+Generated Array:
+203 107 836 234 671 462 147 369 9 603 77 774 610 215 22 761 517 420 885 956 254 700 284 991 147 511 727 864 21 373 891 720 164 50 352 426 800 116 69 404 722 559 663 409 612 525 118 238 375 317 545 369 449 327 398 124 670 422 827 558 408 629 970 529 703 907 478 696 81 374 944 660 930 430 168 671 330 223 979 424 933 56 949 980 888 180 711 683 774 245 275 791 690 992 802 992 579 912 915 388 
+
+Execution time for Median of Three execution time: 1.73E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002135 seconds
+Execution time for Median of Five without random selection execution time: 1.93E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002186 seconds
+Execution time for Median of Seven without random selection execution time: 1.43E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001872 seconds
+Execution time for Median of Nine without random selection execution time: 1.63E-05 seconds
+
+Array 70:
+Generated Array:
+332 318 851 532 395 141 832 766 111 769 861 818 27 968 981 540 988 149 484 464 277 84 235 47 577 360 85 689 82 108 124 213 369 59 457 391 696 851 314 505 529 384 513 17 26 694 988 152 252 394 173 665 995 389 959 954 88 205 830 21 881 421 365 773 388 130 341 841 886 839 362 761 64 967 383 991 425 613 214 410 592 492 438 624 252 215 924 975 547 594 925 102 208 887 895 471 164 610 690 5 
+
+Execution time for Median of Three execution time: 1.96E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001846 seconds
+Execution time for Median of Five without random selection execution time: 1.48E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002925 seconds
+Execution time for Median of Seven without random selection execution time: 1.18E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001365 seconds
+Execution time for Median of Nine without random selection execution time: 1.26E-05 seconds
+
+Array 71:
+Generated Array:
+133 325 397 623 266 94 916 485 910 187 924 36 977 65 13 563 599 855 508 904 299 605 166 518 671 437 45 431 591 277 47 757 8 874 257 431 355 582 628 881 603 780 232 787 583 414 838 457 165 17 317 582 220 989 752 14 781 988 151 207 881 74 910 345 972 138 505 28 271 370 317 296 110 390 708 253 445 113 904 292 165 108 74 283 96 545 746 45 626 491 459 37 437 378 714 78 288 333 318 472 
+
+Execution time for Median of Three execution time: 1.09E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001834 seconds
+Execution time for Median of Five without random selection execution time: 1.22E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002047 seconds
+Execution time for Median of Seven without random selection execution time: 1.16E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001572 seconds
+Execution time for Median of Nine without random selection execution time: 5.91E-05 seconds
+
+Array 72:
+Generated Array:
+691 348 895 944 881 227 325 467 970 37 882 445 783 292 32 544 6 253 645 516 502 993 240 505 502 112 112 280 982 60 125 144 841 407 598 788 556 367 424 776 243 124 9 421 425 280 147 135 648 857 119 225 221 292 952 33 707 58 457 962 911 178 731 791 240 572 89 814 692 331 768 50 442 31 478 929 414 497 466 858 398 234 653 669 456 542 79 634 157 208 468 444 269 685 350 827 657 529 202 570 
+
+Execution time for Median of Three execution time: 1.22E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001268 seconds
+Execution time for Median of Five without random selection execution time: 1.23E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0003078 seconds
+Execution time for Median of Seven without random selection execution time: 1.47E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002116 seconds
+Execution time for Median of Nine without random selection execution time: 1.7E-05 seconds
+
+Array 73:
+Generated Array:
+399 812 576 633 482 925 827 836 712 518 862 966 981 378 975 10 902 68 245 40 932 736 965 580 27 613 82 149 910 991 616 964 896 678 171 828 688 136 782 215 577 945 762 188 172 624 417 370 685 201 113 482 334 389 114 708 94 485 181 920 95 725 356 937 692 748 63 467 798 520 135 558 784 859 999 798 565 68 921 128 369 586 163 243 937 26 275 76 493 87 374 908 64 786 228 638 744 103 892 276 
+
+Execution time for Median of Three execution time: 1.42E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001687 seconds
+Execution time for Median of Five without random selection execution time: 1.56E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002598 seconds
+Execution time for Median of Seven without random selection execution time: 1.47E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001919 seconds
+Execution time for Median of Nine without random selection execution time: 2.11E-05 seconds
+
+Array 74:
+Generated Array:
+529 78 606 261 241 108 129 996 840 878 58 458 638 218 556 989 651 560 864 726 260 458 976 617 865 453 650 42 87 25 225 971 929 301 388 91 544 47 708 871 522 553 246 187 710 294 879 227 507 62 233 366 395 28 867 104 794 802 125 619 764 22 484 7 125 407 618 919 601 964 919 929 396 803 290 491 818 364 76 113 476 666 771 341 821 258 680 721 920 167 171 259 190 203 680 758 576 229 109 310 
+
+Execution time for Median of Three execution time: 1.69E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001829 seconds
+Execution time for Median of Five without random selection execution time: 1.76E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001824 seconds
+Execution time for Median of Seven without random selection execution time: 2.4E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002976 seconds
+Execution time for Median of Nine without random selection execution time: 2.04E-05 seconds
+
+Array 75:
+Generated Array:
+309 335 502 632 880 380 197 159 301 268 647 940 392 170 63 312 894 66 931 152 47 688 834 672 403 196 324 463 322 364 972 692 638 697 36 729 676 653 682 798 503 155 292 336 289 558 614 29 666 771 33 11 195 764 691 406 317 769 877 187 505 859 148 225 637 412 193 677 774 996 650 870 132 616 288 571 114 716 913 888 819 15 610 723 450 748 233 132 255 868 335 266 905 749 370 119 776 90 357 957 
+
+Execution time for Median of Three execution time: 1.68E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001936 seconds
+Execution time for Median of Five without random selection execution time: 1.5E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.000193 seconds
+Execution time for Median of Seven without random selection execution time: 1.7E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002024 seconds
+Execution time for Median of Nine without random selection execution time: 1.6E-05 seconds
+
+Array 76:
+Generated Array:
+921 560 431 296 459 671 401 516 636 307 35 882 106 936 60 47 352 471 728 566 310 468 199 541 478 160 491 537 644 232 243 163 0 106 938 100 624 35 398 826 553 159 914 696 708 142 157 215 139 770 688 926 261 707 934 923 734 909 318 219 91 74 404 751 986 723 489 203 625 274 590 652 222 358 161 477 577 503 879 835 24 728 472 481 536 25 321 269 997 447 612 175 149 554 924 158 785 181 534 505 
+
+Execution time for Median of Three execution time: 1.49E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002835 seconds
+Execution time for Median of Five without random selection execution time: 1.52E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001779 seconds
+Execution time for Median of Seven without random selection execution time: 2.04E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002349 seconds
+Execution time for Median of Nine without random selection execution time: 1.63E-05 seconds
+
+Array 77:
+Generated Array:
+872 784 165 59 844 399 749 700 441 198 239 792 982 380 914 792 317 196 322 266 167 970 218 271 561 626 331 699 32 30 216 637 919 612 568 18 142 752 20 186 682 978 406 279 853 483 958 909 42 285 245 700 426 722 649 690 369 964 777 386 383 912 326 944 109 633 662 766 851 649 62 561 631 567 77 546 516 34 146 347 222 155 505 516 810 785 996 457 163 388 778 652 854 922 899 379 797 169 262 647 
+
+Execution time for Median of Three execution time: 1.29E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001867 seconds
+Execution time for Median of Five without random selection execution time: 1.53E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002905 seconds
+Execution time for Median of Seven without random selection execution time: 1.53E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0008822 seconds
+Execution time for Median of Nine without random selection execution time: 1.62E-05 seconds
+
+Array 78:
+Generated Array:
+218 161 22 943 37 687 948 622 646 391 196 525 79 23 481 368 711 999 44 334 18 578 202 410 6 931 79 943 592 432 672 83 929 502 100 390 537 146 63 428 837 407 131 102 999 825 909 522 548 632 69 864 360 532 791 903 629 769 757 395 755 519 751 685 28 925 275 646 458 922 422 799 83 115 348 207 201 590 674 929 373 361 512 840 214 184 982 713 523 582 802 866 135 405 12 291 2 826 775 130 
+
+Execution time for Median of Three execution time: 1.42E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001563 seconds
+Execution time for Median of Five without random selection execution time: 1.54E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002328 seconds
+Execution time for Median of Seven without random selection execution time: 1.44E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001997 seconds
+Execution time for Median of Nine without random selection execution time: 1.54E-05 seconds
+
+Array 79:
+Generated Array:
+406 159 275 773 203 421 112 703 122 817 92 495 627 570 451 697 318 965 108 82 79 799 34 7 215 95 666 701 989 292 35 452 833 244 785 479 653 466 260 111 845 824 682 871 601 51 214 438 617 810 101 895 432 820 957 246 471 113 767 52 99 136 853 939 957 863 970 292 383 830 966 769 435 998 380 387 73 667 66 7 637 685 506 681 933 773 455 917 26 271 909 75 822 280 604 219 356 941 221 314 
+
+Execution time for Median of Three execution time: 1.45E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002871 seconds
+Execution time for Median of Five without random selection execution time: 2.26E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001762 seconds
+Execution time for Median of Seven without random selection execution time: 1.62E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002545 seconds
+Execution time for Median of Nine without random selection execution time: 1.7E-05 seconds
+
+Array 80:
+Generated Array:
+858 713 647 990 37 15 399 180 566 569 968 91 50 939 826 950 154 401 907 812 760 822 170 487 903 576 965 121 179 571 257 466 494 149 660 424 429 916 172 784 183 146 144 704 933 324 119 385 639 797 389 775 573 820 810 148 515 549 143 861 853 38 533 555 81 512 795 922 533 420 494 695 119 21 117 709 176 447 987 20 811 268 136 488 981 744 270 227 511 930 849 808 575 631 635 882 680 534 386 448 
+
+Execution time for Median of Three execution time: 1.5E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001698 seconds
+Execution time for Median of Five without random selection execution time: 1.56E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002896 seconds
+Execution time for Median of Seven without random selection execution time: 1.6E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.000185 seconds
+Execution time for Median of Nine without random selection execution time: 1.45E-05 seconds
+
+Array 81:
+Generated Array:
+539 989 984 475 868 290 501 876 914 994 882 416 673 82 759 405 668 532 390 883 308 90 582 80 344 141 638 236 389 409 821 398 23 972 851 62 698 561 120 651 902 5 604 17 380 66 828 332 721 407 965 13 140 962 827 205 510 559 365 554 951 105 12 933 108 169 126 172 39 368 591 888 812 67 587 67 8 319 484 363 972 441 466 490 215 32 691 732 545 545 156 571 670 196 989 630 501 818 6 285 
+
+Execution time for Median of Three execution time: 1.63E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002412 seconds
+Execution time for Median of Five without random selection execution time: 2.23E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002049 seconds
+Execution time for Median of Seven without random selection execution time: 1.39E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002139 seconds
+Execution time for Median of Nine without random selection execution time: 1.45E-05 seconds
+
+Array 82:
+Generated Array:
+835 437 612 28 657 439 403 876 767 616 964 205 745 186 464 815 776 819 764 271 77 193 284 430 112 825 280 899 640 956 181 414 552 605 173 829 313 262 706 961 673 825 624 447 27 37 324 982 908 116 71 732 604 193 587 509 946 900 132 375 744 142 938 406 189 966 526 167 345 366 900 934 40 427 74 466 374 284 532 412 764 533 764 439 330 581 814 850 449 253 477 336 267 121 509 663 662 868 933 158 
+
+Execution time for Median of Three execution time: 1.41E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001593 seconds
+Execution time for Median of Five without random selection execution time: 1.77E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001914 seconds
+Execution time for Median of Seven without random selection execution time: 1.52E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.000196 seconds
+Execution time for Median of Nine without random selection execution time: 1.54E-05 seconds
+
+Array 83:
+Generated Array:
+972 413 359 444 46 753 542 415 610 509 118 403 792 475 625 104 282 649 435 938 560 454 15 88 363 204 192 406 282 925 438 712 538 701 488 272 825 187 864 216 386 193 215 415 293 738 70 491 734 767 525 379 324 499 281 6 851 236 960 874 942 967 292 876 995 631 195 151 227 604 115 637 183 927 739 391 813 194 557 110 308 828 603 686 856 583 417 423 408 231 456 351 315 128 649 245 396 464 792 173 
+
+Execution time for Median of Three execution time: 1.52E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002564 seconds
+Execution time for Median of Five without random selection execution time: 1.62E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001869 seconds
+Execution time for Median of Seven without random selection execution time: 1.63E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002068 seconds
+Execution time for Median of Nine without random selection execution time: 1.67E-05 seconds
+
+Array 84:
+Generated Array:
+301 613 93 349 824 681 820 264 279 624 201 358 559 114 935 707 164 293 257 388 379 311 146 807 841 939 189 673 542 475 931 768 948 717 283 958 996 676 239 32 499 288 637 892 387 390 790 62 312 848 672 561 62 631 161 483 541 394 745 103 60 93 265 223 799 41 714 706 238 777 107 693 209 454 618 266 815 732 81 366 314 787 29 347 350 664 171 474 229 800 565 96 230 605 71 251 976 485 15 33 
+
+Execution time for Median of Three execution time: 1.39E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002358 seconds
+Execution time for Median of Five without random selection execution time: 0.0001641 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002004 seconds
+Execution time for Median of Seven without random selection execution time: 2.17E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001832 seconds
+Execution time for Median of Nine without random selection execution time: 2.29E-05 seconds
+
+Array 85:
+Generated Array:
+178 372 825 4 663 368 937 281 474 736 661 911 263 268 718 548 696 158 606 582 205 789 756 303 758 745 361 583 118 137 897 811 395 152 49 867 70 963 297 363 964 199 525 421 314 215 238 137 438 329 18 714 958 523 629 205 985 807 624 251 893 180 299 718 670 42 348 247 771 194 459 17 47 983 13 256 47 57 423 889 673 369 271 942 688 261 918 979 41 544 196 667 378 139 825 858 803 585 741 292 
+
+Execution time for Median of Three execution time: 1.54E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.000189 seconds
+Execution time for Median of Five without random selection execution time: 1.61E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0003151 seconds
+Execution time for Median of Seven without random selection execution time: 1.56E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002053 seconds
+Execution time for Median of Nine without random selection execution time: 1.74E-05 seconds
+
+Array 86:
+Generated Array:
+266 514 653 872 595 779 248 20 597 830 428 837 777 408 645 85 305 236 548 287 314 386 534 518 616 28 39 988 732 195 131 147 878 541 434 170 162 349 975 885 559 369 349 731 610 500 744 522 508 389 358 247 984 882 302 685 282 692 198 797 927 554 517 464 855 219 350 643 281 24 253 478 620 900 346 503 810 968 10 751 50 889 645 275 379 895 509 729 7 63 295 223 623 976 819 562 195 794 253 12 
+
+Execution time for Median of Three execution time: 1.32E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002317 seconds
+Execution time for Median of Five without random selection execution time: 3.77E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.000243 seconds
+Execution time for Median of Seven without random selection execution time: 2.42E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0003537 seconds
+Execution time for Median of Nine without random selection execution time: 2.36E-05 seconds
+
+Array 87:
+Generated Array:
+261 428 996 186 643 844 102 154 250 647 803 515 699 560 777 296 234 367 73 792 630 208 355 256 18 709 602 663 936 355 873 240 963 125 827 8 358 748 729 93 819 613 533 663 813 117 575 497 67 441 349 282 782 723 600 615 575 151 850 82 748 712 460 624 96 352 291 113 750 798 171 741 319 680 189 68 445 247 977 770 735 957 285 343 712 756 254 695 17 839 412 983 156 931 65 643 60 756 956 111 
+
+Execution time for Median of Three execution time: 2.3E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002112 seconds
+Execution time for Median of Five without random selection execution time: 2.35E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002264 seconds
+Execution time for Median of Seven without random selection execution time: 0.0845834 seconds
+Execution time for Median of Nine with random selection execution time: 0.0003458 seconds
+Execution time for Median of Nine without random selection execution time: 1.91E-05 seconds
+
+Array 88:
+Generated Array:
+322 802 924 684 365 428 238 726 407 222 230 852 706 474 593 307 226 88 718 950 307 806 344 760 715 28 18 321 592 557 49 609 143 536 437 861 931 843 45 81 809 301 171 951 710 316 309 620 464 616 375 448 142 604 454 431 834 851 391 105 713 360 124 887 689 98 443 128 87 104 55 333 765 832 653 963 496 385 359 534 575 964 73 254 350 836 703 599 861 58 129 79 340 320 410 769 22 153 868 677 
+
+Execution time for Median of Three execution time: 5.27E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002382 seconds
+Execution time for Median of Five without random selection execution time: 1.94E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.000231 seconds
+Execution time for Median of Seven without random selection execution time: 1.68E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.000157 seconds
+Execution time for Median of Nine without random selection execution time: 1.27E-05 seconds
+
+Array 89:
+Generated Array:
+328 279 432 860 265 965 2 30 813 163 673 970 1 854 15 977 179 769 396 179 2 61 48 713 304 483 312 27 709 420 426 484 413 540 611 824 667 565 588 911 588 233 804 38 671 253 751 740 490 79 599 131 221 503 554 459 775 177 210 889 579 238 903 114 849 337 627 87 757 749 9 197 305 851 657 355 142 881 409 236 678 362 1 251 748 505 459 190 142 479 205 522 155 26 568 132 184 236 243 916 
+
+Execution time for Median of Three execution time: 1.22E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001315 seconds
+Execution time for Median of Five without random selection execution time: 1.23E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001669 seconds
+Execution time for Median of Seven without random selection execution time: 1.27E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001772 seconds
+Execution time for Median of Nine without random selection execution time: 1.25E-05 seconds
+
+Array 90:
+Generated Array:
+938 334 647 49 116 13 307 234 94 806 906 865 947 931 321 361 836 708 960 541 861 67 299 952 793 958 403 976 988 224 73 686 743 774 762 530 322 701 56 354 838 343 929 467 883 244 176 414 834 664 448 359 222 390 422 763 322 122 114 821 574 523 375 635 202 369 468 178 52 153 758 267 972 164 457 146 236 314 344 319 829 269 982 732 734 930 208 942 356 473 581 638 73 560 220 717 154 382 404 445 
+
+Execution time for Median of Three execution time: 1.1E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001241 seconds
+Execution time for Median of Five without random selection execution time: 1.3E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001221 seconds
+Execution time for Median of Seven without random selection execution time: 1.26E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002996 seconds
+Execution time for Median of Nine without random selection execution time: 2.01E-05 seconds
+
+Array 91:
+Generated Array:
+666 374 351 811 534 839 854 740 961 307 478 683 755 669 548 854 344 800 980 384 541 120 230 988 540 181 420 691 742 557 747 210 310 472 271 741 2 745 696 149 422 400 670 783 512 873 184 633 984 841 526 537 314 176 345 969 942 559 808 83 220 744 268 505 15 593 166 176 74 547 577 950 184 832 505 590 39 663 725 421 903 719 88 730 918 833 448 570 590 198 877 514 186 565 165 466 48 598 202 873 
+
+Execution time for Median of Three execution time: 1.38E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.000182 seconds
+Execution time for Median of Five without random selection execution time: 1.5E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0003571 seconds
+Execution time for Median of Seven without random selection execution time: 4.41E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002095 seconds
+Execution time for Median of Nine without random selection execution time: 1.57E-05 seconds
+
+Array 92:
+Generated Array:
+304 467 635 545 906 391 418 851 398 821 725 979 405 564 490 629 938 639 137 553 377 330 108 698 646 994 65 301 530 414 818 457 140 750 893 438 650 884 895 913 632 950 257 109 495 405 839 245 846 951 840 688 177 901 345 728 617 363 608 946 477 819 969 781 247 169 774 820 110 627 678 469 414 808 713 858 858 658 367 255 273 789 958 432 247 576 95 632 841 581 242 277 425 313 518 282 95 515 532 849 
+
+Execution time for Median of Three execution time: 1.5E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002477 seconds
+Execution time for Median of Five without random selection execution time: 2.14E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002413 seconds
+Execution time for Median of Seven without random selection execution time: 2.5E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0003342 seconds
+Execution time for Median of Nine without random selection execution time: 4.42E-05 seconds
+
+Array 93:
+Generated Array:
+309 937 140 283 652 355 354 497 467 496 945 642 88 455 561 464 855 460 598 290 749 737 914 985 747 57 417 647 820 138 289 940 903 744 848 370 177 136 972 518 827 520 908 646 785 758 964 652 769 94 718 722 715 943 747 976 317 547 324 875 819 675 745 263 341 55 744 229 658 645 113 81 212 612 62 222 665 714 464 69 249 693 74 490 113 974 248 715 743 564 775 907 523 635 92 128 711 680 438 946 
+
+Execution time for Median of Three execution time: 1.53E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0003642 seconds
+Execution time for Median of Five without random selection execution time: 1.68E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0003001 seconds
+Execution time for Median of Seven without random selection execution time: 1.82E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002901 seconds
+Execution time for Median of Nine without random selection execution time: 3.92E-05 seconds
+
+Array 94:
+Generated Array:
+617 214 937 219 667 595 115 81 320 953 510 421 781 297 330 783 713 879 584 952 243 966 270 936 848 918 282 750 226 509 381 237 386 98 967 520 921 181 465 820 896 735 923 271 25 769 244 614 596 967 766 266 434 785 773 673 913 861 307 576 479 653 781 936 306 656 522 334 499 969 12 47 649 535 788 766 394 209 476 176 573 439 932 668 752 877 602 696 196 722 213 481 977 759 537 390 522 536 657 108 
+
+Execution time for Median of Three execution time: 1.59E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002902 seconds
+Execution time for Median of Five without random selection execution time: 1.89E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0003021 seconds
+Execution time for Median of Seven without random selection execution time: 1.63E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0003241 seconds
+Execution time for Median of Nine without random selection execution time: 1.67E-05 seconds
+
+Array 95:
+Generated Array:
+64 687 716 787 321 591 139 443 451 182 590 215 511 141 878 867 40 494 435 816 958 251 863 497 69 653 876 716 245 498 114 656 313 89 530 487 905 456 52 714 536 86 1 641 409 513 638 590 670 296 28 20 46 65 470 31 125 84 468 174 509 569 762 299 402 416 714 505 656 315 294 188 184 697 610 528 402 408 984 562 78 103 606 827 709 402 503 743 133 501 762 648 290 693 915 765 108 353 398 680 
+
+Execution time for Median of Three execution time: 2.22E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002024 seconds
+Execution time for Median of Five without random selection execution time: 1.58E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0003878 seconds
+Execution time for Median of Seven without random selection execution time: 1.6E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001842 seconds
+Execution time for Median of Nine without random selection execution time: 1.85E-05 seconds
+
+Array 96:
+Generated Array:
+332 400 437 459 124 88 577 332 352 903 63 152 289 201 36 635 745 73 148 487 59 74 9 777 970 348 674 415 213 341 887 217 761 943 336 985 443 567 874 701 42 17 962 511 575 343 870 744 90 238 329 526 307 59 311 753 926 133 109 755 338 41 186 87 232 334 663 959 323 481 428 358 178 171 729 40 871 263 484 818 674 293 411 690 767 776 754 158 429 250 211 354 367 685 935 598 9 919 889 638 
+
+Execution time for Median of Three execution time: 1.52E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001591 seconds
+Execution time for Median of Five without random selection execution time: 1.59E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001726 seconds
+Execution time for Median of Seven without random selection execution time: 1.52E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001799 seconds
+Execution time for Median of Nine without random selection execution time: 1.54E-05 seconds
+
+Array 97:
+Generated Array:
+634 532 250 455 371 150 110 348 553 825 345 603 178 426 406 545 776 983 691 430 754 261 242 500 479 753 543 900 628 121 604 226 886 421 141 851 119 819 729 453 76 476 81 527 596 961 321 178 208 909 464 933 318 393 78 661 83 660 316 109 388 627 924 737 564 840 560 5 931 108 402 86 498 506 190 506 939 94 886 66 211 714 976 87 397 171 371 643 44 449 14 241 400 281 456 338 706 9 259 836 
+
+Execution time for Median of Three execution time: 1.86E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001926 seconds
+Execution time for Median of Five without random selection execution time: 1.51E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0002143 seconds
+Execution time for Median of Seven without random selection execution time: 1.55E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001797 seconds
+Execution time for Median of Nine without random selection execution time: 1.68E-05 seconds
+
+Array 98:
+Generated Array:
+788 685 41 424 905 760 958 618 457 119 160 260 255 492 451 964 20 722 951 692 870 129 416 2 136 663 695 759 21 315 889 486 651 304 306 684 119 874 433 638 931 562 838 788 900 143 802 966 87 150 964 560 527 281 371 244 889 290 816 340 857 379 146 660 143 411 854 86 606 292 371 696 679 76 659 924 309 782 967 287 943 862 182 820 920 266 706 167 221 665 828 967 572 566 249 5 76 741 101 73 
+
+Execution time for Median of Three execution time: 1.56E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0002859 seconds
+Execution time for Median of Five without random selection execution time: 1.61E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0001856 seconds
+Execution time for Median of Seven without random selection execution time: 1.91E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002066 seconds
+Execution time for Median of Nine without random selection execution time: 1.64E-05 seconds
+
+Array 99:
+Generated Array:
+814 565 253 314 373 323 738 127 74 683 73 310 653 548 76 556 854 27 40 92 968 411 127 619 927 324 467 196 808 854 576 967 307 235 255 929 717 709 591 849 755 443 939 689 871 899 49 263 239 933 605 499 127 827 671 847 17 929 796 904 800 924 914 495 392 559 87 941 25 437 356 540 975 981 247 756 694 293 799 203 584 681 374 387 106 164 162 64 238 355 241 155 664 834 699 548 156 343 699 646 
+
+Execution time for Median of Three execution time: 1.6E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001768 seconds
+Execution time for Median of Five without random selection execution time: 1.69E-05 seconds
+Execution time for Median of Seven with random selection execution time: 0.0003258 seconds
+Execution time for Median of Seven without random selection execution time: 1.63E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0002162 seconds
+Execution time for Median of Nine without random selection execution time: 1.98E-05 seconds
+
+Array 100:
+Generated Array:
+652 528 628 207 856 239 249 749 407 347 632 75 877 127 49 902 954 598 871 782 131 140 321 286 662 717 473 927 144 504 860 771 212 132 161 311 52 697 741 178 200 977 235 833 799 677 917 689 695 507 760 61 100 472 957 421 275 3 471 364 308 430 287 421 608 206 976 858 355 910 800 77 86 866 433 154 221 101 111 401 151 801 981 550 696 799 835 599 227 509 569 642 107 213 94 470 133 864 401 142 
+
+Execution time for Median of Three execution time: 1.75E-05 seconds
+Execution time for Median of Five with random selection execution time: 0.0001792 seconds
+Execution time for Median of Five without random selection execution time: 0.0001187 seconds
+Execution time for Median of Seven with random selection execution time: 0.000141 seconds
+Execution time for Median of Seven without random selection execution time: 1.21E-05 seconds
+Execution time for Median of Nine with random selection execution time: 0.0001278 seconds
+Execution time for Median of Nine without random selection execution time: 1.22E-05 seconds
+
+Average execution time for all arrays: 0.001141804999999999 seconds
+Average execution time for each technique:
+Execution time for Median of Three average execution time: 4.1332000000000003E-05 seconds
+Execution time for Median of Five with random selection average execution time: 0.001955769999999999 seconds
+Execution time for Median of Five without random selection average execution time: 2.543499999999999E-05 seconds
+Execution time for Median of Seven with random selection average execution time: 0.0029207760000000017 seconds
+Execution time for Median of Seven without random selection average execution time: 0.0008666750000000001 seconds
+Execution time for Median of Nine with random selection average execution time: 0.002110369 seconds
+Execution time for Median of Nine without random selection average execution time: 7.2278E-05 seconds
